@@ -1,0 +1,1 @@
+Diretório com desafios propostos pelo ChatGPT para exercício e desenvolvimento da prática de programação na linguagem Python
